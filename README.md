@@ -22,7 +22,7 @@ To Use the data, you need to reference this paper: <br> <br>
         publisher={IEEE}<br>
       }<br>
 
-
+DOI: https://doi.org/10.1109/JSEN.2024.3451349
 
 
 ![alt text](https://github.com/ComNets-Bremen/ComNets-Real-Sensor-Data/blob/master/Humidity.png)
