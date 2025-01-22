@@ -1,4 +1,4 @@
-# ComNets-Research-Lab-Sensor-Data (SEDA)
+# ComNets-Research-Lab-Sensor-Data (SeDa)
 This work conducts several experiments to prepare several datasets containing sensor data from real-world IoT implementations, encompassing both healthy and faulty sensor readings. 
 
 
